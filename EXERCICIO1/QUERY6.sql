@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagens where poder_ataque > 2000;
